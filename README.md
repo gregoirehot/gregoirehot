@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="left" id="gregoirehot-title">:wave: Hello there! I'm Grégoire HOT</h1>
-<h3 align="left">I am a Software Developer at Lille </h3>
+<h3 align="left">I am a Software Developer | Full Stack JavaScript at Lille </h3>
 
 
 <a href="#gregoirehot-title">

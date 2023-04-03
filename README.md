@@ -59,11 +59,11 @@ Here are some ideas to get you started:
       </a>
       <br>Node JS
     </td>
-     <td align="center" width="96"> 
+      <td align="center" width="96"> 
       <a href="#gregoirehot-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
       </a>
-      <br>MongoDB
+      <br>Angular
     </td>
   </tr>
  
@@ -91,6 +91,12 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="48" height="48" alt="Next JS" />
       </a>
       <br>Next JS
+    </td>
+    <td align="center" width="96"> 
+      <a href="#gregoirehot-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
     </td>
   </tr>
     

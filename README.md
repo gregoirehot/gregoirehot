@@ -70,7 +70,7 @@ Here are some ideas to get you started:
    <tr>
     <td align="center" width="96">
       <a href="#gregoirehot-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
+        <img src="https://jefrydco.id/_nuxt/img/how-tailwind-css-help-reduce-workload-by-jefrydco.833f9b8.jpg" width="48" height="48" alt="TailWind" />
       </a>
       <br>TailWind
     </td>
